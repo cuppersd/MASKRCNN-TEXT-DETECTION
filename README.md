@@ -5,7 +5,7 @@ MASKRCNN TEXT DETECTION
 ### Introduction
 This is an implementation of [Mask R-CNN](https://arxiv.org/abs/1703.06870) on Python 3, Keras, and TensorFlow. The model generates bounding boxes and segmentation masks for each instance of an object in the image. It's based on Feature Pyramid Network (FPN) and a ResNet101 backbone.
 
-![Instance Segmentation Sample](assets/img_202.jpg)
+![Instance Segmentation Sample](assets/img_54.jpg)
 
 ### Contents
 1. [Installation](#installation)
