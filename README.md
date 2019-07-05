@@ -37,7 +37,7 @@ a text file will be then written to the output path.
 ### Train
 
 ### Result
-# Mask R-CNN for ICDAR MLT 2017 Challenge 1 Text detection.
+##### Mask R-CNN for ICDAR MLT 2017 Challenge 1 Text detection.
 | Method | Precision (%) | Recall (%) | F-measure (%) | 
 | - | - | - | - |
 | Mask R-CNN-resnet101 | 83.52 | 76.58 | 79.89 |
