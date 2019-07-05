@@ -1,6 +1,3 @@
-# MASKRCNN-TEXT-DETECTION
-MASKRCNN TEXT DETECTION
-
 # Mask R-CNN for Text Detection
 ### Introduction
 * A text detector based on Mask R-CNN is used, and the methods are mainly inspired by fully convolutional networks. First, CNN is adopted to detect text blocks, from which character candidates are extracted. Then FPN is used to predict the corresponding segmentation masks. Last, segmentation mask is used to ﬁnd suitable rectangular bounding boxes for the text instances. 
