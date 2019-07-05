@@ -13,7 +13,7 @@
 3. [Test](#train)
 4. [Train](#test)
 5. [Examples](#examples)
-
+6. [Result](#result)
 ### Installation
 * Python 3.6
 * Tensorflow v1.8.0+
@@ -32,9 +32,12 @@ python test.py
 
 a text file will be then written to the output path.
 
-### Mask R-CNN for ICDAR MLT 2017 Challenge 1 Text detection.
+
+
+### Train
+
+### Result
+# Mask R-CNN for ICDAR MLT 2017 Challenge 1 Text detection.
 | Method | Precision (%) | Recall (%) | F-measure (%) | 
 | - | - | - | - |
 | Mask R-CNN-resnet101 | 83.52 | 76.58 | 79.89 |
-
-### Train
